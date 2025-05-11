@@ -22,7 +22,6 @@ continuous integration protocols and honey-incentivized smart contract framework
 proprietary growl-to-code translation matrices.
 
 (ok this is  a serious one)
-
 Through meaningful internships at tech directed companies such as Brainhive BV
 and De Websmid bv, learned to grasp and hone my skills for web-development,
 backend development, system programming and (partially) cloud management.
