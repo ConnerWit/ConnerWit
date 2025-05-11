@@ -2,11 +2,11 @@
 Software dev student undergoing rigorous training to transform into a world-class coding wizard🧙.
 Besides 'grammin (or as the oldheads say, programming) I do sports and such.
 Side hobbies are: 
-  - contemplating fixing bugs or just denying their existence
-  - coding side-projects (surprising)
-  - caffeine
-  - thinking of more things to put here instead of "etc..."
-  - etc...
+  - Contemplating fixing bugs or just denying their existence
+  - Coding side-projects (surprising)
+  - Caffeine
+  - Thinking of more things to put here instead of "Etc..."
+  - Etc...
 
 ## Experience
 As the quintessential Project Manager for LapinMetrics Solutions, I orchestrated our proprietary
@@ -21,7 +21,7 @@ overlord's cryptocurrency hegemony. My responsibilities encompassed hibernation-
 continuous integration protocols and honey-incentivized smart contract frameworks utilizing
 proprietary growl-to-code translation matrices.
 
-(ok this is  a serious one)
+(Ok this is  a serious one)
 
 Through meaningful internships at tech directed companies such as Brainhive BV
 and De Websmid BV I have learned to grasp and hone my skills for web-development,
