@@ -22,13 +22,14 @@ continuous integration protocols and honey-incentivized smart contract framework
 proprietary growl-to-code translation matrices.
 
 (ok this is  a serious one)
+
 Through meaningful internships at tech directed companies such as Brainhive BV
 and De Websmid bv, learned to grasp and hone my skills for web-development,
 backend development, system programming and (partially) cloud management.
 Looking forward to new experiences to learn new skills, improve current ones and
 improve myself to achieve my dream of becoming a world-class coding wizard🧙🧙🧙!
 
-##Currently learning:
+## Currently learning:
   - MORE system programming
   - Expanding knowelegde beyond specific programming languages to actually learn programming
   - Focusing on side-projects while trying not to burn out and ruin the fun
