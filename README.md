@@ -24,9 +24,9 @@ proprietary growl-to-code translation matrices.
 (ok this is  a serious one)
 
 Through meaningful internships at tech directed companies such as Brainhive BV
-and De Websmid bv, learned to grasp and hone my skills for web-development,
+and De Websmid BV I have learned to grasp and hone my skills for web-development,
 backend development, system programming and (partially) cloud management.
-Looking forward to new experiences to learn new skills, improve current ones and
+Looking forward for new experiences to learn more skills, improve current ones and
 improve myself to achieve my dream of becoming a world-class coding wizard🧙🧙🧙!
 
 ## Currently learning:
