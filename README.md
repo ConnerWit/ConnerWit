@@ -21,7 +21,7 @@ overlord's cryptocurrency hegemony. My responsibilities encompassed hibernation-
 continuous integration protocols and honey-incentivized smart contract frameworks utilizing
 proprietary growl-to-code translation matrices.
 
-(Ok this is  a serious one)
+**(Ok this is  a serious one)**
 
 Through meaningful internships at tech directed companies such as Brainhive BV
 and De Websmid BV I have learned to grasp and hone my skills for web-development,
