@@ -1,11 +1,10 @@
 ## About Me
 Software dev student undergoing rigorous training to transform into a world-class coding wizard🧙.
-Besides 'grammin (or as the oldheads say, programming) I do sports and such.
-Side hobbies are: 
-  - Contemplating fixing bugs or just denying their existence
-  - Programming (what a surprise)
+Besides 'grammin (or as the oldheads say, programming), side hobbies are: 
   - Caffeine
   - Sports
+  - Sarcastic remarks
+  - Watching cat videos
 
 ## Experience
 As the quintessential Project Manager for LapinMetrics Solutions, I orchestrated our proprietary
