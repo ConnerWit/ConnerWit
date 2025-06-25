@@ -1,5 +1,6 @@
 ## About Me
 Software dev student undergoing rigorous training to transform into a world-class coding wizard🧙.
+
 Besides 'grammin (or as the oldheads say, programming), side hobbies are: 
   - Caffeine
   - Sports
