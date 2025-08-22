@@ -32,5 +32,3 @@ improve myself to achieve my dream of becoming a world-class coding wizardðŸ§™ðŸ
   - _MORE_ systems programming
   - Expanding knowledge beyond specific programming languages to actually _learn_ programming
   - Focusing on side-projects while trying not to burn out and ruin the fun
-  - Training wombats to be ready for digital combat against aliens in extraterrestrial cloud environments
-  - (secretly) Training the aliens how to fight back
