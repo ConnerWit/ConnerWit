@@ -5,8 +5,7 @@ people that i can write code.
 Interests / Hobbies outside of programming:
   - Caffeine
   - Video games
-  - Weightlifting
-  - Martial arts
+  - Sports
 
 ## Experience
 Through meaningful internships at tech directed companies such as Brainhive BV
