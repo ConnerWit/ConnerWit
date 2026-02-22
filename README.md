@@ -6,11 +6,12 @@ Interests / Hobbies outside of programming:
   - Caffeine
   - Video games
   - Sports
+  - Math
 
 ## Experience
 Through meaningful internships at tech directed companies such as Brainhive BV
 and De Websmid BV I have learned to grasp and hone my skills for problem solving, 
-web-development,backend development, system programming and (partially) cloud management.
+web-development,backend development, system programming and cloud management.
 Looking forward to new experiences to learn more skills, improve current ones and
 get more productive to finish more work in less time.
 
