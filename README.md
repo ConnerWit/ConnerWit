@@ -7,6 +7,7 @@ Interests / Hobbies outside of programming:
   - Video games
   - Sports
   - Math
+  - Literature
 
 ## Experience
 Through meaningful internships at tech directed companies such as Brainhive BV
